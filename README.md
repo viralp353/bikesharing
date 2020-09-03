@@ -32,4 +32,25 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 ### (1) Population:
 
-![Screenshot (101)](https://user-images.githubusercontent.com/65969608/92177441-20756380-ee06-11ea-9234-8d43ac4eb1ca.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/65969608/92177441-20756380-ee06-11ea-9234-8d43ac4eb1ca.png
+
+
+### (2) Age :
+
+
+![Screenshot (104)](https://user-images.githubusercontent.com/65969608/92180588-0723e580-ee0d-11ea-9805-667dd1b08d50.png)
+
+
+![Screenshot (97)](https://user-images.githubusercontent.com/65969608/92180699-49e5bd80-ee0d-11ea-9e44-a9dd66142a07.png)
+
+
+
+### (3) Density of McDonald's in New York City versus Des Moines:
+
+
+
+![Screenshot (105)](https://user-images.githubusercontent.com/65969608/92181006-e8721e80-ee0d-11ea-9619-aec6932c25d0.png)
+
+
+
+![Screenshot (98)](https://user-images.githubusercontent.com/65969608/92181073-0b9cce00-ee0e-11ea-942b-3c616d51721d.png)
