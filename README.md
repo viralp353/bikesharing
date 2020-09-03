@@ -6,6 +6,11 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 
 
+![dsmia-attraction-village-0063-hor-feat](https://user-images.githubusercontent.com/65969608/92177190-a2b15800-ee05-11ea-83ed-89c75957db85.jpg)
+
+
+
+
 ## Resources:
 
 
@@ -21,4 +26,10 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 
 
-#  Analysis Based on some parameter:
+##  Analysis Based on some parameter:
+
+
+
+### (1) Population:
+
+![Screenshot (101)](https://user-images.githubusercontent.com/65969608/92177441-20756380-ee06-11ea-9234-8d43ac4eb1ca.png)
