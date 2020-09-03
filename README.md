@@ -32,7 +32,8 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 ### (1) Population:
 
-![Screenshot (101)](https://user-images.githubusercontent.com/65969608/92177441-20756380-ee06-11ea-9234-8d43ac4eb1ca.png
+![Screenshot (101)](https://user-images.githubusercontent.com/65969608/92181372-aac1c580-ee0e-11ea-9a3f-d12925509159.png)
+
 
 
 ### (2) Age :
@@ -54,3 +55,15 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/65969608/92181073-0b9cce00-ee0e-11ea-942b-3c616d51721d.png)
+
+
+
+### (4) Tourist Attraction:
+
+
+![Screenshot (106)](https://user-images.githubusercontent.com/65969608/92181561-27ed3a80-ee0f-11ea-9f97-7d0a94c90a9b.png)
+
+
+
+![Screenshot (107)](https://user-images.githubusercontent.com/65969608/92181583-32a7cf80-ee0f-11ea-8a3b-6501b4589e51.png)
+
