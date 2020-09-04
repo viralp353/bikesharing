@@ -86,3 +86,10 @@ Des Moines have a lot of Mc Donald's around same compare with New York. New York
 
 Tourist's place is  play very important  role for any bussiness.Des Moines have a lot of tourist attraction's place near downtown like Des Moines Art Centre,Des Moines water park,Gray Lake ,Terrace Hill Historic Site,Science Centre of lowa & Blank,Pappajohn Sculpture Park,Des Moines's Downtown Farmar's Market,Rotand Riverwalk park and Advantureland.They are colse to each others but not walking distance.that's why ,Bike rideing would be best option for people.
 
+### (5) Peak hours:
+
+![Screenshot (109)](https://user-images.githubusercontent.com/65969608/92266723-3f770280-eea5-11ea-9c95-96f100672843.png)
+
+
+
+For Peak hours,We pikced  NYC's Augest month for analysis. We found that 5 to 9 AM and 5 to 9 PM good time for bike ride bussiness.Office's hours  is very important for  bike ride bussiness.In Downtowm's traffic area, People likes to ride of bike insted of vehical.Based on New York ,We wiil assume that about Des Moines.We wiil good number of riders for bussiness.
