@@ -72,7 +72,7 @@ https://public.tableau.com/profile/viral5646#!/vizhome/NYCcitibike_1599234522474
 
 
 
-Des Moines's has a lot of Mc Donald's around Downtown.Compare with New York, They have a  also lot of Mc Donald's around Downtown.That's why They had a lot of bike riders.Based on New York, We can assume that Des Moines wiil get good number of riders.People like to travelling around near place by bike.
+Des Moines have a lot of Mc Donald's around same compare with New York. New York have a  also lot of Mc Donald's around Downtown.That's why They had a lot of bike riders.Based on New York, We can assume that Des Moines wiil get good number of riders.People like to travelling around near place by bike.Food is very important for bike ride bussiness.People likes to travelling  one place to other place in short distance by ride a bike.
 
 ### (4) Tourist Attraction:
 
