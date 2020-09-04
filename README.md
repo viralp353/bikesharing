@@ -38,13 +38,25 @@ https://public.tableau.com/profile/viral5646#!/vizhome/NYCcitibike_1599234522474
 
 
 
-### (2) Age :
+
+ New York had around 2,344,224 riders for Bike  around 28% from total Populations and among them female around 588.431 & male around 1,530,272.Based on New York we can assume about Des Moines.We wiil get good number of riders in Des Moines.On other hand ,Populations  must be incrase in some future decades.
 
 
-![Screenshot (104)](https://user-images.githubusercontent.com/65969608/92180588-0723e580-ee0d-11ea-9805-667dd1b08d50.png)
+
+### (2) Gender and User type :
 
 
-![Screenshot (97)](https://user-images.githubusercontent.com/65969608/92180699-49e5bd80-ee0d-11ea-9e44-a9dd66142a07.png)
+
+![Screenshot (108)](https://user-images.githubusercontent.com/65969608/92262990-8d8a0700-eea1-11ea-9d76-37b670ed04f2.png)
+
+
+
+
+*  Based on Usertype.New York had 443,865 customer and 1,900,359 subcriber.Assume on New York, We wiil get  good number in Des Moines.
+
+*  Based  on Gender,New york had 1,530,272 male riders and 588,431 female riders.Assume for Des Moines,Des Moines has a 50.8% female population and other male population.Based on that We wiil get good number of riders
+
+
 
 
 
@@ -59,6 +71,8 @@ https://public.tableau.com/profile/viral5646#!/vizhome/NYCcitibike_1599234522474
 ![Screenshot (98)](https://user-images.githubusercontent.com/65969608/92181073-0b9cce00-ee0e-11ea-942b-3c616d51721d.png)
 
 
+
+Des Moines's has a lot of Mc Donald's around Downtown.Compare with New York, They have a  also lot of Mc Donald's around Downtown.That's why They had a lot of bike riders.Based on New York, We can assume that Des Moines wiil get good number of riders.People like to travelling around near place by bike.
 
 ### (4) Tourist Attraction:
 
