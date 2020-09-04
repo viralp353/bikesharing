@@ -84,5 +84,5 @@ Des Moines's has a lot of Mc Donald's around Downtown.Compare with New York, The
 ![Screenshot (107)](https://user-images.githubusercontent.com/65969608/92181583-32a7cf80-ee0f-11ea-8a3b-6501b4589e51.png)
 
 
-Tourist's place is  play very important  role for any bussiness.Des Moines have a lot of tourist attraction's place near downtown like * Des Moines Art Centre,Des Moines water park,Gray Lake ,Terrace Hill Historic Site,Science Centre of lowa & Blank,Pappajohn Sculpture Park,Des Moines's Downtown Farmar's Market.They are colse but not walking distance.that's why ,Bike rideing would be best option for people.
+Tourist's place is  play very important  role for any bussiness.Des Moines have a lot of tourist attraction's place near downtown like Des Moines Art Centre,Des Moines water park,Gray Lake ,Terrace Hill Historic Site,Science Centre of lowa & Blank,Pappajohn Sculpture Park,Des Moines's Downtown Farmar's Market,Rotand Riverwalk park and Advantureland.They are colse to each others but not walking distance.that's why ,Bike rideing would be best option for people.
 
