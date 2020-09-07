@@ -92,4 +92,4 @@ Tourist's place is  play very important  role for any bussiness.Des Moines have 
 
 
 
-For Peak hours,We peaked NYC's Augest month for analysis. We found that 5 to 9 AM and 5 to 9 PM good time for bike ride bussiness.Office's hours  is very important for  bike ride bussiness.In Downtowm's traffic area, People likes to ride of bike insted of vehical.Based on New York ,We wiil assume that about Des Moines.We wiil good number of riders for bussiness.
+For Peak hours,We peaked NYC's Augest month for analysis. We found that 5 to 9 AM and 5 to 9 PM good time for bike ride bussiness.Office's hours  is very important for  bike ride bussiness.In Downtowm's traffic area,People likes to ride of bike insted of vehical.Based on New York ,We wiil assume that about Des Moines.We wiil good number of riders for bussiness.
